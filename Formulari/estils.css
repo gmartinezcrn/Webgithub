@@ -1,0 +1,31 @@
+body{
+  background-color: cyan;
+}
+
+h1{
+  text-align: center;
+}
+#contenedor{
+  width: 250px;
+  background-color: #33FF4C;
+  margin: 0 auto;
+}
+
+.cajitas{
+  width: 200px;
+  height: 35px;
+  background-color: #FF3371;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.cajitas, p{
+  font-family: monospace;
+  color: white;
+}
+
+::-webkit-input-placeholder { color: white; }
+
+input{
+  margin: 7px;
+}
