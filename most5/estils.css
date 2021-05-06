@@ -1,0 +1,36 @@
+body{
+  background-color: cyan;
+  margin: 0;
+}
+
+div{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  background-size: contain;
+  font-family: sans-serif;
+  color: yellow;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 200px;
+  text-indent: 85px;
+}
+
+#cuadradito1{
+  background-color: red;
+}
+
+#cuadradito2{
+  background-color: blue;
+  position: relative;
+}
+
+#cuadradito3{
+  background-color: white;
+  position: fixed;
+}
+
+#cuadradito4{
+  background-color: black;
+}

@@ -1,0 +1,105 @@
+body{
+  background-color: cyan;
+  margin: 0;
+}
+
+div{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  float: left;
+  background-size: contain;
+  font-family: sans-serif;
+  color: yellow;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 200px;
+  text-indent: 85px;
+  display: block;
+  }
+
+#cuadradito1{
+  background-color: green;
+}
+
+#cuadradito2{
+  background-color: purple;
+}
+
+#cuadradito3{
+  background-color: brown;
+}
+
+#cuadradito4{
+  background-color: black;
+}
+
+#cuadradito5{
+  background-color: pink;
+  clear: both;
+}
+
+#cuadradito6{
+  background-color: cyan;
+}
+
+#cuadradito7{
+  background-color: orange;
+}
+
+#cuadradito8{
+  background-color: red;
+}
+
+#cuadradito9{
+  background-color: white;
+  clear: both;
+}
+
+#cuadradito10{
+  background-color: grey;
+}
+
+#cuadradito11{
+  background-color: silver;
+
+}
+
+#cuadradito12{
+  background-color: gold;
+}
+
+#cuadradito13{
+  background-color: lime;
+  clear: both;
+}
+
+#cuadradito14{
+  background-color: olive;
+}
+
+#cuadradito15{
+  background-color: teal;
+}
+
+#cuadradito16{
+  background-color: #FF99FF;
+}
+
+#cuadradito17{
+  background-color: fuchsia;
+  clear: both;
+}
+
+#cuadradito18{
+  background-color: navy;
+}
+
+#cuadradito19{
+  background-color: #FFFFCC;
+}
+
+#cuadradito20{
+  background-color: #FF0033;
+}
