@@ -1,0 +1,72 @@
+body{
+
+  overflow: visible;
+  margin: 0;
+}
+
+h1{
+  font-size: 30px;
+  text-align: center;
+  line-height: 78px;
+  margin: auto;
+  font-family: monospace;
+}
+
+#Contenedor{
+  background-color: #1DF5CD;
+    float: inherit;
+    width: 100%;
+    height: 2000px;
+    font-family: 'Baloo Chettan 2', cursive;
+    text-align: center;
+}
+
+.header{
+    background-color: cyan;
+    width: 100%;
+    margin: 0 auto;
+    height: 82px;
+}
+
+.secciones{
+    background: cyan;
+    display: flex;
+    align-items: center;
+    height: 60px;
+    text-align: center;
+    position: relative;
+    top: 10px;
+
+}
+
+.cuadrados{
+  background-color: #1DF5CD;
+  width: 80%;
+  height: 980px;
+  margin: 0 auto;
+}
+
+.cuadrado{
+  width: 200px;
+    height: 200px;
+    background-color: #FFAA45;
+    margin: 12px;
+    display: inline-block;
+    margin-top: 50px;
+    border-radius: 20%;
+    line-height: 200px;
+}
+
+.cuadrado p{
+line-height: 382px;
+margin-top: 30px;
+}
+
+.cuadrado a{
+font-family: sans-serif;
+}
+
+#cudrado1{
+position: relative;
+margin-top: 10px;
+}
