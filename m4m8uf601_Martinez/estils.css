@@ -1,0 +1,38 @@
+body{
+  background-color: white;
+}
+
+.cuadres{
+  width: 150px;
+  height: 150px;
+  margin: 20px;
+  background-color: pink;
+}
+
+#un {
+  background-color: #FF0000;
+}
+
+#dos {
+  background-color: #FFB200;
+}
+
+#tres {
+  background-color: #C1FF00;
+}
+
+#quatre {
+  background-color: #00FF7C;
+}
+
+@media screen and (max-width: 820px) {
+  body {
+    background-color: black;
+  }
+}
+
+@media screen and (min-width: 1020px) {
+  body {
+    background-color: cyan;
+  }
+}
