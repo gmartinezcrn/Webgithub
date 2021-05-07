@@ -1,0 +1,31 @@
+body{
+  background-color: cyan;
+}
+
+div{
+  background-color: white;
+  height: 800px;
+}
+
+h1{
+  text-align: center;
+}
+
+#imagen1{
+  width: 350px;
+  margin: 0px 10px 0px 8px;
+  float: left;
+}
+
+p{
+  font-size: 14px;
+}
+
+#imagen2{
+  width: 230px;
+  margin: 325px 10px 300px 8px;
+  float: right;
+}
+#medio{
+  text-align: center;
+}
