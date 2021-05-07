@@ -1,0 +1,30 @@
+body{
+  background-color: cyan;
+}
+
+h1{
+  text-align: center;
+}
+
+#contenedor{
+  background-color: #FF3C3C;
+  width: 165px;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+input{
+  margin: 5px;
+}
+
+#envia {
+  margin-left: 60px;
+  background-color: yellow;
+  font-family: monospace;
+}
+
+.cajitas{
+  width: 150px;
+  height: 35px;
+  text-align: center;
+}
