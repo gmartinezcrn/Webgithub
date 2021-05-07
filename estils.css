@@ -45,7 +45,9 @@ h1{
   height: 980px;
   margin: 0 auto;
 }
-
+.cuadrado:hover{
+  opacity: 0.5;
+}
 .cuadrado{
   width: 200px;
     height: 200px;
