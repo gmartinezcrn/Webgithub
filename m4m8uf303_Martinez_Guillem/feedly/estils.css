@@ -1,0 +1,86 @@
+body{
+ background-color: cyan;
+}
+
+div{
+ background-color: pink;
+ padding: 0 0 0 50px;
+}
+
+h1{
+  width: 350px;
+  text-align: center;
+  margin: 0 25px;
+}
+
+p{
+  color: #350px;
+  font-size: 18px;
+  line-height: 22px;
+  width: 350px;
+  margin-left: 25px;
+}
+
+#menu{
+ height:40px;
+ background-color:#FFF;
+ background-image: url(img/feedly-logo.png);
+ background-repeat: no-repeat;
+ background-position: 5px 5px;
+}
+
+#coneix{
+ height: 550px;
+ background-color: #6C3;
+ background-image: url(img/img-hero-full-list.png);
+ background-repeat: no-repeat;
+ background-position: 450px;
+}
+
+#tot{
+ height:641px;
+ background-color: #FFF;
+ background-image: url(img/allinone.jpg);
+ background-repeat: no-repeat;
+ background-position: 450px;
+}
+
+#util{
+ height:500px;
+ background-color: #333333;
+ background-image: url(img/curator-short.png);
+ background-repeat: no-repeat;
+ background-position: 450px;
+}
+
+#rapid{
+ height:550px;
+ background-color: #EEECEE;
+ background-image: url(img/img-hero-full-list.png);
+ background-repeat: no-repeat;
+ background-position: 450px;
+}
+
+#facil{
+ height:550px;
+ background-color: #6C3;
+ background-image: url(img/mobile-share.png);
+ background-repeat: no-repeat;
+ background-position: 450px;
+}
+
+#arreu{
+ height:643px;
+ background-color: #EEECEE;
+ background-image: url(img/anywhere.png);
+ background-repeat: no-repeat;
+ background-position: 450px;
+}
+
+#footer{
+ height:200px;
+ background-color:#333333;
+ background-image: url(img/appstore.png);
+ background-repeat: no-repeat;
+ background-position: 475px;
+}
